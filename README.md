@@ -110,9 +110,9 @@ int main(void)
 
 
 # Authors
-* **Derbew Felasman**
+* **Andrew Halilu**
    - *Github:* [Andrew Halilu](https://github.com/Information14)
    - *Email:* g.andrewhalilu71@gmail.com
-* **Melat Samuel**
+* **Manpasu Mathias**
    - *Github:* [Manpasu Mathias](https://github.com/manpersu)
    - *Email:* manpasumathias@gmail.com
